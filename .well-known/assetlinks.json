@@ -1,0 +1,9 @@
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "timeset.com.timeset",
+    "sha256_cert_fingerprints":
+    ["8B:C3:B2:04:87:15:65:08:EC:77:BC:59:E4:E5:EC:2D:A3:49:DA:27:4B:67:8E:31:47:89:52:CA:99:8B:A8:CB"]
+  }
+}]
